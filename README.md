@@ -11,8 +11,8 @@ This repository contains all lab assignments and labsheets for Full Stack Develo
 | **`labsheet3/`** | React.js / Frontend Components |
 | **`labsheet4/`** | Node.js Backend & Modules |
 | **`labsheet5/`** | Express.js REST APIs & Middleware |
+| **`labsheet6/`** | Full Stack API & React Client (API Lab) |
 | **`labsheet7/`** | Complete DBMS Lab Sheet 7 (`college_db`, DDL, DML, Joins, Subqueries) |
-| **`api-lab/`** | API Integrations & Experiments |
 | **`assignment 1/`** | Course Assignments |
 
 ---
